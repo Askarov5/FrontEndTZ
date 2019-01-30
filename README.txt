@@ -1,3 +1,4 @@
+Some hacks to built HTML/CSS template which handle old browsers
 Requirements:
  1.IE 9+, Chrome 40+, Firefox 40+, Safari 7+.
  2.JS validation
